@@ -40,6 +40,7 @@ GitDetective is a user-friendly web application that allows users to search for 
 5. Toggle between dark and light mode using the button in the header.
 
 
+---
 
 
 # Password Generator
